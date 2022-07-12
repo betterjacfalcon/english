@@ -1,0 +1,47 @@
+1. Im a a doctor
+   Yo soy aun doctor
+   
+2. You are an Engineer
+   Tu eres un Ingeniero
+   
+3. He is ill
+   El esta enfermo
+   
+4. She is a funny person
+   Ella es una persona divertida
+   
+5. It is a bicycle
+   Eso es una bicicleta
+   
+6. We are friends
+   Nostros somos amigos
+   
+7. You are actors
+   Ustedes son actores
+   
+8. They are investors
+   Ellos son inversionistas
+   
+9. I am a teacher
+   Yo soy un profesor
+
+10. You are my friend   
+    Tu eres mi amigo
+	
+11. He is an excellent soccer player
+    El es un excelente jugador de futbol
+	
+12. She is very good at math
+    Ella es muy buena en matematicas 
+	
+13. It is a cup of coffee
+     Es una taza de cafe
+	 
+14. We are at the park
+    Nosotros estamos en en el parque
+	
+15. You are in the school
+    Ustedes esta en la escuela
+	
+16. They are with their friends
+    Ellos estan con sus amigos
