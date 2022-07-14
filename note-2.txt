@@ -1,0 +1,51 @@
+1. I am not a student
+   Yo no soy un estudiante
+   
+2. You are not a  student
+   tu no eres a estudiante
+   
+3. It is not a student
+   No es un estudiante
+   
+4. You are not a lawyer
+   No eres abogado
+   
+5. They are not a student
+   Ellos no son estudiante
+   
+6. She is not in New York
+   Ella no esta en Nueva York
+   
+7. We are not a couple
+   Nosotros no somos una pareja
+   
+   I am not
+   You are not
+   He is not
+   She is not => she isn't
+   It is not => irit isn't
+   You are not => You aren't
+   They are not => They aren't
+   We are => we aren't
+   
+   Am I?     emai
+   Are you?
+   Is He?
+   Is She?
+   Is it?    isit
+   Are we?
+   Are you?
+   Are they?
+   
+8. Are you at home?
+   Esta en casa?
+   
+9. Is he a photographer?
+   Es un fotografo?
+   
+10. Are they friends?
+    Son amigos
+	
+11. Is my name on the list?
+    Mi nombre esta en la lista?
+   
