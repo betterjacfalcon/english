@@ -14,31 +14,20 @@
    Ellos no son estudiante
    
 6. She is not in New York
-<<<<<<< HEAD
    Ella no esta en Nueva York
-=======
-   Ellano esta en Nueva York
->>>>>>> d5eae5c23cfd0453db5cfe6c888cbed111b09df3
-   
+  
 7. We are not a couple
    Nosotros no somos una pareja
    
    I am not
    You are not
    He is not
-<<<<<<< HEAD
    She is not => she isn't
    It is not => irit isn't
    You are not => You aren't
    They are not => They aren't
    We are => we aren't
-=======
-   She is not
-   It is not
-   You are not
-   They are not
-   We are 
->>>>>>> d5eae5c23cfd0453db5cfe6c888cbed111b09df3
+
    
    Am I?     emai
    Are you?
@@ -51,19 +40,16 @@
    
 8. Are you at home?
    Esta en casa?
-   
-<<<<<<< HEAD
+
 9. Is he a photographer?
    Es un fotografo?
    
 10. Are they friends?
-=======
+    Son amigos?
+	
 9. Is he photographer?
    Es un fotografo?
    
-10. Are you friends?
->>>>>>> d5eae5c23cfd0453db5cfe6c888cbed111b09df3
-    Son amigos
 	
 11. Is my name on the list?
     Mi nombre esta en la lista?
