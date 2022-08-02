@@ -1,0 +1,78 @@
+1. computer => com-piu-rer => computador
+
+2. hardware => jard-wer    => hardware
+
+3. software => sof-wer     => software
+
+4. keyboard => ki-bord     => teclado
+
+5. mouse    => maus        => mouse
+
+6. monitor  => mo-ni-tor   => monitor
+
+7. CPU      => cipiiu      => CPU
+
+8. Computer Case => com-piu-rer keis => Computer Case
+
+9. speakers => spi-kers => altavoces
+
+10. headphone => jed-phone => solo audifonos
+
+11. headset   => jed-set   => audifonos con microfonos
+
+12. Printer => prin-ter => Impresora
+
+13. laptop  => laptot => computador portatil
+
+14. touchpad => toch-pad => Panel tactil de laptop
+
+15. peripherals => pe-ri-fe-rels => perifierico
+
+16. mother board => mo-der-bord => tarjeta madre
+
+17. hard disk => hard disk => disco duro
+
+18. mechanical hard drive => disco duro mecanico
+
+19. solid state hard drive => disco duro en estado solido
+
+20. ram memory => memoria ram
+
+21. slots => ranura de expansión
+
+22. power supply => power suplai => fuente de poder
+
+23. operating system => opereirin sistem => sistema operativo
+
+24. end users => end iuser => usuarios finales
+
+25. device => divais => dispositivos
+
+26. files => fai- els => archivos
+
+27. folder => carpetas
+
+28. shutdown => shot-daun => apagar
+
+29. restart => ri-start => reiniciar
+
+30. setting => serin => configuraciones 
+
+31. download => daun- load => descargas
+
+32. upload => up-load => carga
+
+33. backup => bak-up => respaldo
+
+34. antivirus => anti-vai-rus
+
+35. virus => vai-rus
+
+36. app => aplication => aplikeishon => aplicacion 
+
+37. data=> dara / deira => Informacion
+
+38. database => dara beis / deira bais => base de datos 
+
+ 
+

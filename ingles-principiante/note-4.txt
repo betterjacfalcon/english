@@ -31,7 +31,7 @@
 11. Get a (a) move on
     Date prisa
 	
-12. Hang on a second
+12. Hang on a (a) second
     Espera un segundo
 	
 13. What's going on
@@ -76,7 +76,7 @@
 26. Nowhere
 	En ningun lado
 	
-27. Give me a minute
+27. Give me a minute (a)
     Dame un minuto
 	
 28. Sleep well
