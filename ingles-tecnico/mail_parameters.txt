@@ -1,0 +1,55 @@
+1. brower => brao-zer => navegador
+
+2. web page => gueb peich => pagina web
+
+3. search engine => serch-en-yin => motor de busqueda
+
+4. home page => jom-peich => pagina de inicio
+
+5. domain => domein => dominio
+
+6. cookie => ku-ki 
+
+7. URL => iu-ar-elf => direccion web
+
+8. link => enlace web
+
+9. bookmark => marcado
+
+10. email 
+
+11. inbox => inbakn => bandeja de entrada
+
+12. outbox => autbox => bandeja de salida
+
+13. sent => enviado
+
+14. draft => mensaje en edicion
+
+15. to compose => compous => redactar un correo
+
+16. attachment => atach-ment => adjunto
+
+17. from => emisor
+
+18. to => para 
+
+19. subject => sobjekt = asunto
+
+20. reply => riplay => responder solo al emisor 
+
+21. reply to all => riplai tu ol => responder a todos
+
+21 forward => for-werd => reenviar correos
+
+22. contacts => kon-takts => contactos
+
+23. calendar => ka-lender => calendario
+
+24. sign in => sain - in => iniciar sesion
+
+25. sign out => sain aut => cerrar sesion 
+
+26. on line => on lain => en linea
+
+27. off line => of lain => fuera de linea
